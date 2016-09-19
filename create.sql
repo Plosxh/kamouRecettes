@@ -1,0 +1,5 @@
+CREATE TABLE "ingredient"(
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "nom" VARCHAR(64) NULL,
+  "type" VARCHAR(64) NULL
+);
